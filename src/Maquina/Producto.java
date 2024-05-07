@@ -1,6 +1,6 @@
 package Maquina;
 
-abstract class Producto implements  IProducto {
+abstract class Producto implements IProducto {
     String nombre = "";
     float precio = 0;
     int id = 0;
